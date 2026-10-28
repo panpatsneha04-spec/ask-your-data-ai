@@ -1,0 +1,49 @@
+Order_ID,Order_Date,City,Product,Category,Quantity,Unit_Price,Discount_Pct,Payment_Method
+5001,2026-01-02,Delhi,Smart Watch,Electronics,1,4999.0,0.0,Net Banking
+5002,2026-01-04,Bengaluru,Table Lamp,Home,5,899.0,0.0,UPI
+5003,2026-01-06,Pune,Smart Watch,Electronics,2,4999.0,20.0,UPI
+5004,2026-01-09,Pune,Bedsheet Set,Home,5,1299.0,15.0,Cash on Delivery
+5005,2026-01-11,Bengaluru,Cotton T-Shirt,Clothing,2,499.0,5.0,Cash on Delivery
+5006,2026-01-14,Chennai,Ceramic Mug,Home,1,349.0,15.0,Cash on Delivery
+5007,2026-01-16,Chennai,Smart Watch,Electronics,2,4999.0,5.0,Net Banking
+5008,2026-01-19,,Phone Charger,Electronics,2,799.0,0.0,Cash on Delivery
+5009,2026-01-21,Bengaluru,Running Shoes,Clothing,4,2999.0,0.0,Net Banking
+5010,2026-01-24,Bengaluru,Table Lamp,Home,1,899.0,10.0,Net Banking
+5011,2026-01-26,Chennai,Ceramic Mug,Home,2,349.0,20.0,Net Banking
+5012,2026-01-29,Chennai,Bedsheet Set,Home,1,1299.0,10.0,Card
+5013,2026-01-31,Pune,Phone Charger,Electronics,1,799.0,15.0,Net Banking
+5014,2026-02-03,Mumbai,Bedsheet Set,Home,5,1299.0,0.0,UPI
+5015,2026-02-05,Bengaluru,Bedsheet Set,Home,2,1299.0,10.0,Net Banking
+5016,2026-02-08,Chennai,Denim Jeans,Clothing,5,1599.0,20.0,Net Banking
+5017,2026-02-10,Mumbai,Ceramic Mug,Home,2,349.0,20.0,Cash on Delivery
+5018,2026-02-12,Pune,Wireless Earbuds,Electronics,1,2499.0,15.0,Net Banking
+5019,2026-02-15,Bengaluru,Table Lamp,Home,3,899.0,0.0,Cash on Delivery
+5020,2026-02-17,Bengaluru,Bedsheet Set,Home,5,1299.0,,Net Banking
+5021,2026-02-20,Pune,Table Lamp,Home,2,899.0,5.0,Net Banking
+5022,2026-02-22,Bengaluru,Smart Watch,Electronics,2,4999.0,10.0,Card
+5023,2026-02-25,Bengaluru,Ceramic Mug,Home,1,349.0,15.0,Cash on Delivery
+5024,2026-02-27,Delhi,Bedsheet Set,Home,1,1299.0,0.0,Net Banking
+5025,2026-03-02,Bengaluru,Phone Charger,Electronics,1,799.0,0.0,UPI
+5026,2026-03-04,Chennai,Bedsheet Set,Home,1,1299.0,10.0,Card
+5027,2026-03-07,Pune,Cotton T-Shirt,Clothing,1,499.0,20.0,Cash on Delivery
+5028,2026-03-09,Mumbai,Running Shoes,Clothing,1,2999.0,5.0,Net Banking
+5029,2026-03-12,Chennai,Phone Charger,Electronics,2,799.0,10.0,Card
+5030,2026-03-14,Delhi,Table Lamp,Home,1,899.0,10.0,Card
+5031,2026-03-17,Chennai,Phone Charger,Electronics,2,799.0,10.0,Net Banking
+5032,2026-03-19,Mumbai,Ceramic Mug,Home,2,349.0,10.0,UPI
+5033,2026-03-21,Bengaluru,Smart Watch,Electronics,1,4999.0,0.0,Cash on Delivery
+5034,2026-03-24,Pune,Running Shoes,Clothing,,2999.0,10.0,Net Banking
+5035,2026-03-26,Delhi,Running Shoes,Clothing,5,2999.0,5.0,UPI
+5036,2026-03-29,Bengaluru,Bedsheet Set,Home,1,1299.0,0.0,Card
+5037,2026-03-31,Chennai,Ceramic Mug,Home,3,349.0,10.0,Card
+5038,2026-04-03,Chennai,Smart Watch,Electronics,4,4999.0,0.0,Card
+5039,2026-04-05,Pune,Phone Charger,Electronics,1,799.0,10.0,Card
+5040,2026-04-08,Pune,Bedsheet Set,Home,1,1299.0,15.0,Card
+5041,2026-04-10,Mumbai,Table Lamp,Home,1,899.0,15.0,Card
+5042,2026-04-13,Delhi,Ceramic Mug,Home,4,349.0,10.0,Net Banking
+5043,2026-04-15,Bengaluru,Smart Watch,Electronics,2,4999.0,0.0,Cash on Delivery
+5044,2026-04-18,Delhi,Phone Charger,Electronics,5,799.0,10.0,Net Banking
+5045,2026-04-20,Bengaluru,Denim Jeans,Clothing,1,1599.0,5.0,Net Banking
+5046,2026-04-23,Pune,Bedsheet Set,Home,2,1299.0,20.0,UPI
+5047,2026-04-25,Mumbai,Cotton T-Shirt,Clothing,1,499.0,0.0,Net Banking
+5048,2026-04-28,Bengaluru,Running Shoes,Clothing,1,2999.0,0.0,Cash on Delivery

@@ -1,0 +1,40 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache / build files
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Test / tool caches
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+
+# Secrets - never commit API keys or database passwords
+.env
+.env.*
+# ...but DO commit the template, which contains no secrets
+!.env.example
+.streamlit/secrets.toml
+
+# Local database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Editors, local tool settings and OS files
+.claude/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Excel lock files
+~$*.xlsx

@@ -1,0 +1,21 @@
+# Web interface
+streamlit>=1.50
+# Data analysis
+pandas>=2.2
+# Reading .xlsx Excel files (used by pandas)
+openpyxl>=3.1
+# Interactive charts
+plotly>=5.24
+# Database access (SQL toolkit, MySQL driver, MySQL 8 login support)
+sqlalchemy>=2.0
+pymysql>=1.1
+cryptography>=42
+# Reading settings from a .env file
+python-dotenv>=1.0
+# Parsing SQL so queries can be checked before they run
+sqlglot>=25.0
+# Running the automated tests
+pytest>=8.0
+
+# No LLM or AI-service package is used: the app's question handling is rule-based.
+# Exact versions the test suite last passed with: requirements-lock.txt
