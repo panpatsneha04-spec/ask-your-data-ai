@@ -1,7 +1,8 @@
 # Deployment readiness assessment
 
-**Status: not deployed.** No account, repository or hosting service has been set
-up. This document assesses what a deployment would involve. Hosting terms and
+**Status: not deployed.** The code is published on GitHub
+(https://github.com/panpatsneha04-spec/ask-your-data-ai), but no hosting service
+has been set up. This document assesses what a deployment would involve. Hosting terms and
 free-tier limits change often, so check the provider's current documentation
 before deciding; the points below are deliberately general.
 
@@ -56,10 +57,11 @@ bundled **synthetic** sample datasets and the SQLite demo database (no MySQL
 credentials), with a short "don't upload confidential data" notice. This needs
 no architectural change and should cost nothing within the free tier.
 
-**Prerequisites (each needs your decision; nothing has been done):**
-1. Initialise Git and review what will be published (the `.gitignore` already
+**Prerequisites (steps 3–5 still need your decision):**
+1. ✅ Initialise Git and review what will be published (the `.gitignore` already
    excludes `.env`, `.venv/` and local tool settings).
-2. Create a GitHub repository and push the code.
+2. ✅ Create a GitHub repository and push the code (done:
+   https://github.com/panpatsneha04-spec/ask-your-data-ai).
 3. Add `.streamlit/config.toml` with a lower `server.maxUploadSize`, and optionally
    a privacy notice in the app for the hosted version.
 4. Create the Streamlit Community Cloud app from the repository, choose
